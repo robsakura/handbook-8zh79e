@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robsakura.github.io/handbook-8zh79e/sitemap.xml
